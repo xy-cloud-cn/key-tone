@@ -1,0 +1,11 @@
+[package]
+name = "key-tone"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rodio = "0.16.0"
+device_query="1.1.1"
+tinyfiledialogs = "3.3.9"
