@@ -1,3 +1,5 @@
+#![windows_subsystem = "windows"]
+
 extern crate rodio;
 extern crate device_query;
 extern crate tinyfiledialogs;
