@@ -13,7 +13,6 @@ path="./src/debug.rs"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-rodio = "0.16.0"
+rodio = "0.17.1"
 device_query="1.1.1"
 tinyfiledialogs = "3.3.9"
-iced = "0.4.2"
